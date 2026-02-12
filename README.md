@@ -2,7 +2,7 @@
     <img src="/assets/background.png" alt="This is background">
 </div>
 
----
+<h2></h2>
 
 <div align="center">
     <a href="https://t.me/kaelos_club" target="_blank">
@@ -18,7 +18,5 @@
         <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge" />
     </a>
 </div>
-
----
 
 <h2 align="center">About me</h2>
