@@ -19,5 +19,10 @@
 
 <h2 align="center">
     <img src="/assets/icon/about_me_icon.png" width=24 height=24 />
-    About me
+    <em>About me</em>
+</h2>
+
+<h2 align="center">
+    <img src="/assets/icon/technologies_icon.png" width=24 height=24 />
+    <em>Technologies</em>
 </h2>
