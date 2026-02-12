@@ -22,11 +22,20 @@
     <em>About me</em>
 </h2>
 
+<p>
+    Hello, I'm Kaelos. I'm a <em>Minecraft mod</em> developer.
+</p>
+
 <h2 align="center">
     <img src="/assets/icon/technologies_icon.png" width=24 height=24 />
     <em>Technologies</em>
 </h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=">
+    <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk" />
 </div>
+
+<h2 align="center">
+    <img src="/assets/icon/statistics_icon.png" width=24 height=24 />
+    <em>Statistics</em>
+</h2>
