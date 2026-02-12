@@ -2,6 +2,8 @@
     <img src="/assets/background.png" alt="This is background">
 </div>
 
+---
+
 <div align="center">
     <a href="https://t.me/kaelos_club" target="_blank">
         <img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge" />
