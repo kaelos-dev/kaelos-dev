@@ -40,4 +40,4 @@
     <em>Statistics</em>
 </h2>
 
-[![Kaelos GitHub stats](https://github-stats-extended.vercel.app/api?username=kaelos-dev&theme=dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+[![Kaelos GitHub stats](https://github-stats-extended.vercel.app/api?username=kaelos-dev&theme=dark&bg_color=000000&hide_border=true&border_radius=4.5)](https://github.com/stats-organization/github-stats-extended)
