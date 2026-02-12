@@ -17,6 +17,7 @@
     </a>
 </div>
 
-##
-
-<h2 align="center">About me</h2>
+<h2 align="center">
+    <img src="/assets/icon/about_me_icon.png" width=24 height=24 />
+    About me
+</h2>
