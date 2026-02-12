@@ -40,4 +40,4 @@
     <em>Statistics</em>
 </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelos-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaelos GitHub stats](https://github-stats-extended.vercel.app/api?username=kaelos-dev&theme=dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
