@@ -26,3 +26,7 @@
     <img src="/assets/icon/technologies_icon.png" width=24 height=24 />
     <em>Technologies</em>
 </h2>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=">
+</div>
