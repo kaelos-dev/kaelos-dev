@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-    <a href="https://t.me/kaelos_club" target="_blank">
+    <a href="https://t.me/kaelos_hub" target="_blank">
         <img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge" />
     </a>
     <a href="https://www.curseforge.com/members/kaelos" target="_blank">
